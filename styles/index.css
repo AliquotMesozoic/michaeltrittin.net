@@ -1,0 +1,56 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%:
+}
+
+.body-content {
+    position: relative;
+    top: 0;
+    left: 5%;
+    width: 90%;
+}
+
+.header {
+    background-color: #f8f8f8;
+    top: 0;
+    left: 0;
+    height: 100px;
+    width: 100%;
+}
+
+.main-content {
+    
+}
+
+.footer {
+    height: 100px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.float-left {
+    left: 0;
+}
+
+.float-right {
+    float: right;
+    right: 0;
+}
+
+.center {
+    
+}
+
+.header .center {
+    position: relative;
+    left: 5%;
+    width: 90%;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
